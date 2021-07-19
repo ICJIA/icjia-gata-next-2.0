@@ -67,7 +67,7 @@ Funding is available for the period of **November 1, 2021 to June 30, 2022**. Ba
 
 ## Required Technical Assistance Session
 
-Pre-application webinars will be available for viewing beginning at 3:00 p.m. Tuesday, June 29, 2021.
+Pre-application webinars will be available for viewing beginning at 3:00 p.m. Tuesday, June 22, 2021.
 
 - [CLEPD SFY22 Important Information](CLEPDSFY2022ImportantInformation.pptx)
 
