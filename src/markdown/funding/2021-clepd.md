@@ -15,7 +15,7 @@ showToc: true
 
 [LINK TO NOFO PACKET](CLEPDNOFOPacket.zip) {.text-center .nofo-link}
 
-The Illinois Criminal Justice Information Authority is requesting proposals for grants supporting a comprehensive community-law enforcement and other first responder response to drugs. Grants will be made with State Fiscal Year 2022 Community-Law Enforcement and Other First Responder Partnership for Deflection & Substance Use Disorder Treatment Act funds. A total of $900,000 in funding is available through this solicitation for use over a eight-month period. Grant requests are limited to a minimum of $75,000, and maximum of \$150,000.
+The Illinois Criminal Justice Information Authority is requesting proposals for grants supporting a comprehensive community-law enforcement and other first responder response to drugs. Grants will be made with State Fiscal Year 2022 Community-Law Enforcement and Other First Responder Partnership for Deflection & Substance Use Disorder Treatment Act funds. A total of $900,000 in funding is available through this solicitation for use over a eight-month period. Grant requests are limited to a minimum of $75,000, and maximum of $150,000.
 
 Read this page and [click here for application materials, funding eligibility, and other information](CLEPDNOFOPacket.zip).
 
@@ -67,7 +67,7 @@ Funding is available for the period of **November 1, 2021 to June 30, 2022**. Ba
 
 ## Required Technical Assistance Session
 
-Pre-application webinars will be available for viewing beginning at 3:00 p.m. Tuesday, June 22, 2021.
+Pre-application webinars will be available for viewing beginning at 3:00 p.m. Tuesday, June 29, 2021.
 
 - [CLEPD SFY22 Important Information](CLEPDSFY2022ImportantInformation.pptx)
 
@@ -75,13 +75,13 @@ Information provided during this webinar recording will be unofficial and not bi
 
 ## Timeline
 
-|                           **Task**                           |      **Date**      |
-| :----------------------------------------------------------: | :----------------: |
-|                         NOFO Posted                          |   June 22, 2021    |
-|              NOFO question submission deadline               |   July 29, 2021    |
+|                           **Task**                           |     **Date**      |
+| :----------------------------------------------------------: | :---------------: |
+|                         NOFO Posted                          |   June 22, 2021   |
+|              NOFO question submission deadline               |   July 29, 2021   |
 |                     **Applications due**                     | **August 5, 2021** |
-| Budget Committee review/approval of recommended designations |  October 21, 2021  |
-|                      Program start date                      |  November 1, 2021  |
+| Budget Committee review/approval of recommended designations | October 21, 2021  |
+|                      Program start date                      | November 1, 2021  |
 
 ## Reporting
 
@@ -99,7 +99,7 @@ The following documents must be emailed to [CJA.CLEDPNOFO@Illinois.gov](mailto:C
 
 ## Questions
 
-Questions regarding this NOFO may be submitted to [CJA.CLEDPNOFO@Illinois.gov](mailto:CJA.CLEDPNOFO@Illinois.gov) until **11:59 p.m., August 5, 2021.**
+Questions regarding this NOFO may be submitted to [CJA.CLEDPNOFO@Illinois.gov](mailto:CJA.CLEDPNOFO@Illinois.gov) until **11:59 p.m.,  August 5, 2021.**
 
 All substantive questions and responses will be posted. Updates to NOFO materials, and questions from applicants and their responses are revised weekly. [View them here](q_and_a.docx).
 
@@ -107,14 +107,14 @@ Due to the competitive nature of this solicitation, applicants may not discuss t
 
 ## Contact Information
 
-Lajuana Murphy
+Lajuana Murphy  
 
-Criminal Justice Specialist
+Criminal Justice Specialist  
 
-Illinois Criminal Justice Information Authority
+Illinois Criminal Justice Information Authority  
 
-300 West Adams, Suite 200
+300 West Adams, Suite 200  
 
-Chicago, IL 60606
+Chicago, IL 60606  
 
 [Lajuana.Murphy@illinois.gov](mailto:Lajuana.Murphy@illinois.gov)
