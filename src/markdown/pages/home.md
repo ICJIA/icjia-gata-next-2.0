@@ -48,7 +48,6 @@ Complete the following to pre-qualify:
 - [Obtain a Data Universal Numbering System (DUNS) number.](http://fedgov.dnb.com/webform/pages/CCRSearch.jsp){.blank}
 - [Register with the System for Award Management (SAM).](https://sam.gov/SAM/pages/public/index.jsf){.blank}
 - [Apply for, update, or verify your agency Employer Identification Number (EIN).](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online){.blank}
-- [Create a Grants.gov account with username and password.](https://www.grants.gov/applicants/registration.html){.blank}
 - [Complete registration in the Illinois GATA Grantee Portal.](https://grants.illinois.gov/portal/){.blank}
 
 </div>
