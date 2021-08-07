@@ -13,7 +13,7 @@
       <funding-card :item="item" :toggle-state="toggleState" />
     </div>
 
-    <div style="font-size: 16px;" class="text-center">
+    <div style="font-size: 16px" class="text-center">
       For archived funding opportunities prior to April, 2019, please see:
       <a href="https://legacy-grants.icjia.cloud/grants"
         >https://legacy-grants.icjia.cloud/grants</a
@@ -29,22 +29,22 @@ export default {
   components: {
     // eslint-disable-next-line vue/no-unused-components
     FundingCard,
-    Loader
+    Loader,
   },
   props: {
     funding: {
       type: Array,
-      default: () => []
+      default: () => [],
     },
     toggleState: {
       type: String,
-      default: "current"
-    }
+      default: "current",
+    },
   },
   data() {
     return {
       filteredFunding: [],
-      loading: true
+      loading: true,
     };
   },
   watch: {
@@ -56,13 +56,13 @@ export default {
 
       let filteredFunding = [];
       if (newValue === "current") {
-        this.funding.forEach(x => {
+        this.funding.forEach((x) => {
           let expiration = new Date(x.expires);
           let expirationAdjusted = new Date(
             expiration.getTime() + 24 * 60 * 60 * 250
           );
           expirationAdjusted = new Date(
-            expirationAdjusted.setDate(expirationAdjusted.getDate() + 1)
+            expirationAdjusted.setDate(expirationAdjusted.getDate() + 0)
           );
           let posted = new Date(x.posted);
           let postedAdjusted = new Date(posted.getTime() + 24 * 60 * 60 * 250);
@@ -77,7 +77,7 @@ export default {
             filteredFunding.push(x);
         });
       } else {
-        this.funding.forEach(x => {
+        this.funding.forEach((x) => {
           let expiration = new Date(x.expires);
           //console.log(`Expiration: ${expiration} -- Target: ${target}`)
           if (expiration < target && x.status === "live")
@@ -87,8 +87,8 @@ export default {
       this.filteredFunding = filteredFunding;
       this.loading = false;
       NProgress.done();
-    }
-  }
+    },
+  },
 };
 </script>
 
