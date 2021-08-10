@@ -40,8 +40,9 @@ The online workshop is open to anyone interested in applying for state grants. A
 
 ## REGISTER
 
-1. Step 1: Create Your Registration Account via [CAPE Account](https://colrs.uis.edu/apply/?sr=5fe8c071-c7b0-49d6-9702-5b896af37e74). Click on “First-Time Users” and “Create an account.” Then follow the instructions to register.
-2. Register for courses listed in the [Illinois Criminal Justice Information Authority Course Schedule](https://colrs.uis.edu/portal/icjiacourses?tab=schedule)
+Register for course listed in the University of Illinois (Springfield) - Online learning course titled: [Illinois Criminal Justice Information Authority Course Schedule](https://colrs.uis.edu/portal/icjiacourses?tab=schedule) Then follow the link and register for the course.
+
+First time users will have to create an account via [CAPE Account](https://colrs.uis.edu/apply/?sr=5fe8c071-c7b0-49d6-9702-5b896af37e74). Then follow the instructions to register. You can also download this [instruction guide](ICJIA-IONRegistrationInstructionsw.pics.pdf) with images of the registration process.
 
 ## COST
 
