@@ -32,7 +32,7 @@ In this online learning experience, participants learn at their own pace and rev
 
 Participants will register via University of Illinois-Springfield Continuing and Professional Education Program (CAPE) using the Moodle learning platform.
 
-Participants also may post questions and participate in live discussion forums. Online discussion forum date and times are posted monthly. Registration is required for live participant lead question sessions.
+Participants also may post questions and participate in live discussion forums. Online discussion forum date and times are posted monthly. Registration is required for live participant-lead question sessions.
 
 ## WHO CAN PARTICIPATE?
 
@@ -40,9 +40,9 @@ The online workshop is open to anyone interested in applying for state grants. A
 
 ## REGISTER
 
-Register for the course listed in the University of Illinois (Springfield) - Online learning course titled: [Illinois Criminal Justice Information Authority Course Schedule](https://colrs.uis.edu/portal/icjiacourses?tab=schedule) Then follow the link and register for the course.
+Register for the online course titled: [Illinois Criminal Justice Information Authority Course Schedule](https://colrs.uis.edu/portal/icjiacourses?tab=schedule) hosted by the University of Illinois - Springfield.
 
-First time users will have to create an account via [CAPE Account](https://colrs.uis.edu/apply/?sr=5fe8c071-c7b0-49d6-9702-5b896af37e74). Then follow the instructions to register. You can also download this [instruction guide](ICJIA-IONRegistrationInstructionsw.pics.pdf) with images of the registration process.
+First time users should create a [CAPE Account](https://colrs.uis.edu/apply/?sr=5fe8c071-c7b0-49d6-9702-5b896af37e74). Need help? [Download this Registration Guide](ICJIAIONRegistrationInstructionsw.pics.pdf).
 
 ## COST
 
